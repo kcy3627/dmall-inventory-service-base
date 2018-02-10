@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         DMALL_DOCKER_REGISTRY='ec2-54-95-48-23.ap-northeast-1.compute.amazonaws.com:5000'
-        SLUG='kcy'
+        SLUG='kcy3627'
     }
     
     stages {
